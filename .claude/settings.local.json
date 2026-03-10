@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm add:*)",
+      "Bash(pnpm dlx:*)",
+      "Bash(pnpm list:*)",
+      "Bash(pnpm remove:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(pnpm install:*)",
+      "Bash(taskkill /f /im node.exe)"
+    ]
+  }
+}
